@@ -1,7 +1,7 @@
 <p align="center">
   
   <p align="center">
-    <img alt="Evilginx2 Title" src="https://github.com/belph3gorgit/EvilGinx-3.5-bypass/blob/main/screen1.png?raw=true" height="60" />
+    <img alt="Evilginx2 Title" src="https://github.com/belph3gorgit/EvilGinx-3.5-bypass/blob/main/screen1.png?raw=true"/>
   </p>
 
 
