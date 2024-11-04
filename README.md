@@ -1,9 +1,20 @@
+
 <p align="center">
+
+    <p align="center">
+  <img alt="Evilginx2 Logo" src="https://raw.githubusercontent.com/kgretzky/evilginx2/master/media/img/evilginx2-logo-512.png" height="160" />
+  <p align="center">
+    <img alt="Evilginx2 Title" src="https://raw.githubusercontent.com/kgretzky/evilginx2/master/media/img/evilginx2-title-black-512.png" height="60" />
+  </p>
+</p>
+
+**Evilginx** is a man-in-the-middle attack framework used for phishing login credentials along with session cookies, which in turn allows to bypass 2-factor authentication protection.
+
     <img alt="Evilginx2 Title" src="https://github.com/belph3gorgit/EvilGinx-3.5-bypass/blob/main/screen1.png?raw=true"/>
     <img alt="Evilginx2 Title" src="https://github.com/belph3gorgit/EvilGinx-3.5-bypass/blob/main/screen2.png?raw=true"/>
     <img alt="Evilginx2 Title" src="https://github.com/belph3gorgit/EvilGinx-3.5-bypass/blob/main/screen3.png?raw=true"/>
 
-# 3.5 + bypass
+# Evilginx 3.5 + bypass
 - Free o365.yaml (Outlook, Live, Microsoft etc) phishlet working. Last test: 2024/11/4
 (Read bypass methods, if u don't have specified bypass activated some of the 3rd party will not work)
 
