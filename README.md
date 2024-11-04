@@ -1,16 +1,7 @@
 <p align="center">
-  
-  <p align="center">
     <img alt="Evilginx2 Title" src="https://github.com/belph3gorgit/EvilGinx-3.5-bypass/blob/main/screen1.png?raw=true"/>
-  </p>
-
-  <p align="center">
     <img alt="Evilginx2 Title" src="https://github.com/belph3gorgit/EvilGinx-3.5-bypass/blob/main/screen2.png?raw=true"/>
-  </p>
-
-  <p align="center">
     <img alt="Evilginx2 Title" src="https://github.com/belph3gorgit/EvilGinx-3.5-bypass/blob/main/screen3.png?raw=true"/>
-  </p>
 
 # 3.5 + bypass
 - Free o365.yaml (Outlook, Live, Microsoft etc) phishlet working. Last test: 2024/11/4
