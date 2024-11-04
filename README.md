@@ -11,6 +11,21 @@
     <img alt="Evilginx2 Title" src="https://github.com/belph3gorgit/EvilGinx-3.5-bypass/blob/main/screen2.png?raw=true"/>
     <img alt="Evilginx2 Title" src="https://github.com/belph3gorgit/EvilGinx-3.5-bypass/blob/main/screen3.png?raw=true"/>
 
+# How to run it ?
+
+1. sudo apt install git<br/>
+2. git clone https://github.com/belph3gorgit/EvilGinx-3.5-bypass<br/>
+3. cd EvilGinx-3.5-bypass<br/>
+4. ./build/evilginx -p phishlets<br/>
+5. Done !! <br/>
+
+# How to configurate it ?
+Please read official evilginx 2 tutorials.
+
+# How to setup Telegram ?
+Just create bot, create group, add bot to group, get group chat id, get bot token.<br/>
+execute command: config webhook_telegram bot-token/-chatid<br/>
+
 # Evilginx 3.5 + bypass
 - Free o365.yaml (Outlook, Live, Microsoft etc) phishlet working. Last test: 2024/11/4<br/>
 (Read bypass methods, if u don't have specified bypass activated some of the 3rd party will not work)<br/>
