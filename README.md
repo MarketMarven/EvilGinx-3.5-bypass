@@ -25,7 +25,7 @@
 
 # -- Bypass methods --
 Cloudflare - Required if site has Cloudflare Anti-DDoS page enabled.<br/>
-BotGuard - Required for sites like Google (verified, trusted accounts), Microsoft o365 (corporate, private) 3rd parties etc.<br/>
+BotGuard - Required for sites like Google (verified, trusted accounts), Microsoft o365 (some of) 3rd parties login pages usually big companies or extra protection without it lets say only 70% accounts would work etc etc.<br/>
 hCaptcha, recaptcha - Required for sites that have hCaptcha, recaptcha on forms or as Anti-Ddos.<br/>
 GeeTest - Needed for crypto websites like Binance, Coinbase, Blockchain etc etc<br/>
 Customjs - Required for sites that have their own protection for certain actions.<br/>
